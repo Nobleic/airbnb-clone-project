@@ -155,6 +155,5 @@ Reusable UI components are essential for creating a **consistent** and **scalabl
 - Displays social media icons and branding information.  
 - Designed to remain lightweight and accessible.  
 
----
 
 
